@@ -1,5 +1,5 @@
 # Coursera-Machine-Learning
-This is Machine Learning taught by Andrew Ng on Coursera.
+I took *Machine Learning* taught by Andrew Ng on Coursera. 
 
 ## Contents
 * Lecture Slides 
